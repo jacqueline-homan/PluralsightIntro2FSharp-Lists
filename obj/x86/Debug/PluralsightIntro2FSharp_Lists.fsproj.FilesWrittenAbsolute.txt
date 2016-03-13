@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/PluralsightIntro2FSharp-Lists/PluralsightIntro2FSharp-Lists/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/PluralsightIntro2FSharp-Lists/PluralsightIntro2FSharp-Lists/bin/Debug/PluralsightIntro2FSharp-Lists.exe.mdb
+/home/jacqueline/Projects/PluralsightIntro2FSharp-Lists/PluralsightIntro2FSharp-Lists/bin/Debug/PluralsightIntro2FSharp-Lists.exe
+/home/jacqueline/Projects/PluralsightIntro2FSharp-Lists/PluralsightIntro2FSharp-Lists/obj/x86/Debug/PluralsightIntro2FSharp-Lists.exe
+/home/jacqueline/Projects/PluralsightIntro2FSharp-Lists/PluralsightIntro2FSharp-Lists/obj/x86/Debug/PluralsightIntro2FSharp-Lists.exe.mdb
